@@ -4,7 +4,7 @@ Welcome to the community repository for proposing and discussing new features fo
 
 ## Submit a Feature Request
 
-👉 **[Go directly to Discussions]([https://gitlab.com/<group>/<repository>/-/discussions](https://github.com/amadeusprotocol/community/discussions))**
+👉 **[Go directly to Discussions]([(https://github.com/amadeusprotocol/community/discussions)])**
 
 Use Discussions to:
 
