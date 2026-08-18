@@ -1,2 +1,2 @@
 # community
-Community hub for AMA feature requests, feedback, support tickets and roadmap discussions.
+Click on Discussions to place your feature request. 
